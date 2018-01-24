@@ -1,7 +1,5 @@
 ﻿using AlphabetCider.Domain.SecretGenerator;
 using System;
-using System.Collections.Generic;
-using System.Text;
 using Xunit;
 
 namespace AlphabetCider.UnitTests.SeceretGenerator
